@@ -10,7 +10,6 @@ module.exports = function () {
     });
 
     return {
-        install: function() {},
         exec // Called when someone performs an action in the devices control panel
     };
 };
